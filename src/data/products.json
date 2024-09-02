@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "purchaseNumber": "PO0123456",
+        "purchaseDate": "2024-08-01",
+        "sku": "SKU12345",
+        "supplier": "Supplier A",
+        "status": "Completed",
+        "notes": "Delivery on time",
+        "totalAmount": "$5",
+        "created": "2024-08-01",
+        "modified": "2024-08-05"
+    },
+    {
+        "id": 2,
+        "purchaseNumber": "PO0123469",
+        "purchaseDate": "2024-08-01",
+        "sku": "SKU12345",
+        "supplier": "Supplier B",
+        "status": "Pending",
+        "notes": "Checking product",
+        "totalAmount": "$5",
+        "created": "2024-08-01",
+        "modified": "2024-08-05"
+    }
+]
