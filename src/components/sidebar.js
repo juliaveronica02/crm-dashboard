@@ -9,6 +9,7 @@ const Sidebar = () =>  {
                 <a href="/dashboard" className="list-group-item list-group-item-action bg-light" >Dashboard</a>
                 <a href="#" className="list-group-item list-group-item-action bg-light" >Pipeline</a>
                 <a href="#" className="list-group-item list-group-item-action bg-light" >Contacts</a>
+                <Link to="/accounting" className="list-group-item list-group-item-action bg-light" >Accounting</Link>
                 <Link to="/products" className="list-group-item list-group-item-action bg-light" >Products</Link>
                 <a href="#" className="list-group-item list-group-item-action bg-light" >Activities</a>
                 <a href="#" className="list-group-item list-group-item-action bg-light" >Settings</a>

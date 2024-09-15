@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "date": "2024-09-01",
+        "amount": 500,
+        "type": "sale"
+    },
+    {
+        "id": 2,
+        "date": "2024-09-02",
+        "amount": 1500,
+        "type": "sale"
+    },
+    {
+        "id": 3,
+        "date": "2024-09-03",
+        "amount": 1200,
+        "type": "sale"
+    },
+    {
+        "id": 4,
+        "date": "2024-09-04",
+        "amount": 200,
+        "type": "sale"
+    },
+    {
+        "id": 5,
+        "date": "2024-09-05",
+        "amount": 800,
+        "type": "sale"
+    }
+]
