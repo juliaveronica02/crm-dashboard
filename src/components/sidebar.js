@@ -7,12 +7,12 @@ const Sidebar = () =>  {
             <div className="sidebar-heading"><a href="/">CRM</a></div>
             <div className="list-group list-group-flush">
                 <a href="/dashboard" className="list-group-item list-group-item-action bg-light" >Dashboard</a>
-                <a href="#" className="list-group-item list-group-item-action bg-light" >Pipeline</a>
-                <a href="#" className="list-group-item list-group-item-action bg-light" >Contacts</a>
+                <a href="/pipeline" className="list-group-item list-group-item-action bg-light" >Pipeline</a>
+                <a href="/contact" className="list-group-item list-group-item-action bg-light" >Contacts</a>
                 <Link to="/accounting" className="list-group-item list-group-item-action bg-light" >Accounting</Link>
                 <Link to="/products" className="list-group-item list-group-item-action bg-light" >Products</Link>
-                <a href="#" className="list-group-item list-group-item-action bg-light" >Activities</a>
-                <a href="#" className="list-group-item list-group-item-action bg-light" >Settings</a>
+                <a href="/activity" className="list-group-item list-group-item-action bg-light" >Activities</a>
+                <a href="/settings" className="list-group-item list-group-item-action bg-light" >Settings</a>
             </div>
         </div>
     )

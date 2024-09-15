@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Alice", "online": false },
+    { "id": 2, "name": "Bob", "online": false },
+    { "id": 3, "name": "Charlie", "online": false },
+    { "id": 4, "name": "Ellie", "online": false }
+]
